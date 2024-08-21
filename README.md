@@ -12,6 +12,12 @@ The solution includes:
 3. **Evaluation:** Assessing model performance using precision, recall, and F1-score.
 4. **Visualization:** Comparing model performance through plots of precision, recall, and F1-scores.
 
+## About the Repository
+The repository consists of main.ipynb file which has all the code.
+There are folders assigned to each task and are named after the methods.
+Each folder has predictions, metrics and saved models in Model folder.
+For bert you can find the trained saved model in following link as there were restictions on GitHub.
+[link](https://drive.google.com/drive/folders/1GXZQg2Mp1L1wyrxIZbtsBO4AUxgo6nJt)
 To install the dependencies, use the following command:
 ```bash
 pip install -r requirements.txt
